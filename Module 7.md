@@ -15,7 +15,7 @@ Else
 6.	Return 0
  
 ## Program:
-~~~
+~~~c
 #include<stdio.h> 
 struct eligib
 {
